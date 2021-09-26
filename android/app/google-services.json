@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "205055719605",
+    "project_id": "commresources-d9b8a",
+    "storage_bucket": "commresources-d9b8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:205055719605:android:52a3a49c1f338a2a4ea6fc",
+        "android_client_info": {
+          "package_name": "ninja.raghavgupta.comm_resources"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "205055719605-5cdpg08lktce6hpe22r6qmf9fu6rltfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRFJ7D9Uk_or_pHR5gtxCa42N-XED2Oz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "205055719605-5cdpg08lktce6hpe22r6qmf9fu6rltfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
